@@ -1,0 +1,9 @@
+C:\Users\102675853\Documents\GitHub\CIV-OO-Challenge-1\ClassLibrary\bin\Debug\netcoreapp2.1\ClassLibrary.deps.json
+C:\Users\102675853\Documents\GitHub\CIV-OO-Challenge-1\ClassLibrary\bin\Debug\netcoreapp2.1\ClassLibrary.dll
+C:\Users\102675853\Documents\GitHub\CIV-OO-Challenge-1\ClassLibrary\bin\Debug\netcoreapp2.1\ClassLibrary.pdb
+C:\Users\102675853\Documents\GitHub\CIV-OO-Challenge-1\ClassLibrary\obj\Debug\netcoreapp2.1\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\102675853\Documents\GitHub\CIV-OO-Challenge-1\ClassLibrary\obj\Debug\netcoreapp2.1\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\102675853\Documents\GitHub\CIV-OO-Challenge-1\ClassLibrary\obj\Debug\netcoreapp2.1\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\102675853\Documents\GitHub\CIV-OO-Challenge-1\ClassLibrary\obj\Debug\netcoreapp2.1\ClassLibrary.AssemblyInfo.cs
+C:\Users\102675853\Documents\GitHub\CIV-OO-Challenge-1\ClassLibrary\obj\Debug\netcoreapp2.1\ClassLibrary.dll
+C:\Users\102675853\Documents\GitHub\CIV-OO-Challenge-1\ClassLibrary\obj\Debug\netcoreapp2.1\ClassLibrary.pdb
