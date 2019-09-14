@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29025.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle_Tests", "Triangle_Tests\Triangle_Tests.csproj", "{6269F847-5028-4EB2-BCD7-2B6896AE4012}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{42F47A3D-3519-47EF-9943-3BD4F1772824}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{42F47A3D-3519-47EF-9943-3BD4F1772824}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quadrilateral_Tests_v2", "Quadrilateral_Tests_v2\Quadrilateral_Tests_v2.csproj", "{D105F327-42A0-4EA1-AF79-428C769432AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quadrilateral_Tests_v2", "Quadrilateral_Tests_v2\Quadrilateral_Tests_v2.csproj", "{D105F327-42A0-4EA1-AF79-428C769432AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserInterface", "UserInterface\UserInterface.csproj", "{83A82D15-F494-4E93-A78D-16E852F652BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserInterface", "UserInterface\UserInterface.csproj", "{83A82D15-F494-4E93-A78D-16E852F652BF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle_Tests_v2", "Triangle_Tests_v2\Triangle_Tests_v2.csproj", "{E22FD7C0-F113-4DDD-AEAA-E1D13A7A86AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6269F847-5028-4EB2-BCD7-2B6896AE4012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6269F847-5028-4EB2-BCD7-2B6896AE4012}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6269F847-5028-4EB2-BCD7-2B6896AE4012}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6269F847-5028-4EB2-BCD7-2B6896AE4012}.Release|Any CPU.Build.0 = Release|Any CPU
 		{42F47A3D-3519-47EF-9943-3BD4F1772824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{42F47A3D-3519-47EF-9943-3BD4F1772824}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42F47A3D-3519-47EF-9943-3BD4F1772824}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,6 +29,10 @@ Global
 		{83A82D15-F494-4E93-A78D-16E852F652BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83A82D15-F494-4E93-A78D-16E852F652BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83A82D15-F494-4E93-A78D-16E852F652BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E22FD7C0-F113-4DDD-AEAA-E1D13A7A86AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E22FD7C0-F113-4DDD-AEAA-E1D13A7A86AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E22FD7C0-F113-4DDD-AEAA-E1D13A7A86AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E22FD7C0-F113-4DDD-AEAA-E1D13A7A86AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

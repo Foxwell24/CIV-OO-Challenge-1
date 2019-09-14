@@ -7,3 +7,12 @@ C:\Users\102675853\Documents\GitHub\CIV-OO-Challenge-1\ClassLibrary\obj\Debug\ne
 C:\Users\102675853\Documents\GitHub\CIV-OO-Challenge-1\ClassLibrary\obj\Debug\netcoreapp2.1\ClassLibrary.AssemblyInfo.cs
 C:\Users\102675853\Documents\GitHub\CIV-OO-Challenge-1\ClassLibrary\obj\Debug\netcoreapp2.1\ClassLibrary.dll
 C:\Users\102675853\Documents\GitHub\CIV-OO-Challenge-1\ClassLibrary\obj\Debug\netcoreapp2.1\ClassLibrary.pdb
+D:\Dev\GitHub\CIV-OO-Challenge-1\ClassLibrary\bin\Debug\netcoreapp2.1\ClassLibrary.deps.json
+D:\Dev\GitHub\CIV-OO-Challenge-1\ClassLibrary\bin\Debug\netcoreapp2.1\ClassLibrary.dll
+D:\Dev\GitHub\CIV-OO-Challenge-1\ClassLibrary\bin\Debug\netcoreapp2.1\ClassLibrary.pdb
+D:\Dev\GitHub\CIV-OO-Challenge-1\ClassLibrary\obj\Debug\netcoreapp2.1\ClassLibrary.csprojAssemblyReference.cache
+D:\Dev\GitHub\CIV-OO-Challenge-1\ClassLibrary\obj\Debug\netcoreapp2.1\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\Dev\GitHub\CIV-OO-Challenge-1\ClassLibrary\obj\Debug\netcoreapp2.1\ClassLibrary.AssemblyInfoInputs.cache
+D:\Dev\GitHub\CIV-OO-Challenge-1\ClassLibrary\obj\Debug\netcoreapp2.1\ClassLibrary.AssemblyInfo.cs
+D:\Dev\GitHub\CIV-OO-Challenge-1\ClassLibrary\obj\Debug\netcoreapp2.1\ClassLibrary.dll
+D:\Dev\GitHub\CIV-OO-Challenge-1\ClassLibrary\obj\Debug\netcoreapp2.1\ClassLibrary.pdb

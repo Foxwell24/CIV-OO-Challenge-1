@@ -9,9 +9,6 @@ namespace UserInterface
         {
             while (0 == 0)
             {
-                int s1 = 0;
-                int s2 = 0;
-
                 Console.WriteLine("What color is your shape?");
                 string color = Console.ReadLine();
 
@@ -19,14 +16,14 @@ namespace UserInterface
                 ConsoleKeyInfo input = Console.ReadKey();
                 Console.WriteLine();
                 if (input.Key.ToString().ToLower() == "r")
-                    MakeRectangle(color, 0);
+                    MakeRectangle(color);
                 if (input.Key.ToString().ToLower() == "s")
                     MakeSquare(color);
                         
             }
         }
 
-        private static Square MakeSquare(string color)
+        private static void MakeSquare(string color)
         {
             int s1 = 0;
             Console.WriteLine("length of side 1?");
@@ -39,14 +36,15 @@ namespace UserInterface
                 Console.WriteLine("not an integer");
                 MakeSquare(color);
             }
-            Square i = new Square(color, s1);            
-            return i;
+            new Square(color, s1);
         }
 
-        public static Rectangle MakeRectangle(string color, int s1)
+        public static void MakeRectangle(string color)
         {
+            int s1 = 0;
             int s2 = 0;
-            if(s1 == 0)
+            Console.WriteLine();
+            while (s1 <= 0)
             {
                 Console.WriteLine("length of side 1?");
                 try
@@ -56,23 +54,28 @@ namespace UserInterface
                 catch (FormatException)
                 {
                     Console.WriteLine("not an integer");
-                    MakeRectangle(color, 0);
                 }
             }
-            Console.WriteLine("length of side 2?");
-            try
+            while (s1 > 0 && s2 <= 0)
             {
-                s2 = int.Parse(Console.ReadLine());
+                Console.WriteLine("length of side 2?");
+                try
+                {
+                    s2 = int.Parse(Console.ReadLine());
+                }
+                catch (FormatException)
+                {
+                    Console.WriteLine("not an integer");
+                }               
             }
-            catch (FormatException)
+            if (s1 > 0 && s2 > 0)
             {
-                Console.WriteLine("not an integer");
-                MakeRectangle(color, s1);
-            }
-            Console.Clear();
+                Console.Clear();
+                Console.WriteLine("sucsessfull");
+                Console.WriteLine();
 
-            Rectangle i = new Rectangle(color, s1, s2);
-            return i;
+                new Rectangle(color, s1, s2);
+            }            
         }
     }
 }

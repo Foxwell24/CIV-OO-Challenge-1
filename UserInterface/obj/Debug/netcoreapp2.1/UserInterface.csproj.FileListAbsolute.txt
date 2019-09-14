@@ -12,3 +12,17 @@ C:\Users\102675853\Documents\GitHub\CIV-OO-Challenge-1\UserInterface\obj\Debug\n
 C:\Users\102675853\Documents\GitHub\CIV-OO-Challenge-1\UserInterface\obj\Debug\netcoreapp2.1\UserInterface.csproj.CopyComplete
 C:\Users\102675853\Documents\GitHub\CIV-OO-Challenge-1\UserInterface\obj\Debug\netcoreapp2.1\UserInterface.dll
 C:\Users\102675853\Documents\GitHub\CIV-OO-Challenge-1\UserInterface\obj\Debug\netcoreapp2.1\UserInterface.pdb
+D:\Dev\GitHub\CIV-OO-Challenge-1\UserInterface\bin\Debug\netcoreapp2.1\UserInterface.deps.json
+D:\Dev\GitHub\CIV-OO-Challenge-1\UserInterface\bin\Debug\netcoreapp2.1\UserInterface.runtimeconfig.json
+D:\Dev\GitHub\CIV-OO-Challenge-1\UserInterface\bin\Debug\netcoreapp2.1\UserInterface.runtimeconfig.dev.json
+D:\Dev\GitHub\CIV-OO-Challenge-1\UserInterface\bin\Debug\netcoreapp2.1\UserInterface.dll
+D:\Dev\GitHub\CIV-OO-Challenge-1\UserInterface\bin\Debug\netcoreapp2.1\UserInterface.pdb
+D:\Dev\GitHub\CIV-OO-Challenge-1\UserInterface\bin\Debug\netcoreapp2.1\ClassLibrary.dll
+D:\Dev\GitHub\CIV-OO-Challenge-1\UserInterface\bin\Debug\netcoreapp2.1\ClassLibrary.pdb
+D:\Dev\GitHub\CIV-OO-Challenge-1\UserInterface\obj\Debug\netcoreapp2.1\UserInterface.csprojAssemblyReference.cache
+D:\Dev\GitHub\CIV-OO-Challenge-1\UserInterface\obj\Debug\netcoreapp2.1\UserInterface.csproj.CoreCompileInputs.cache
+D:\Dev\GitHub\CIV-OO-Challenge-1\UserInterface\obj\Debug\netcoreapp2.1\UserInterface.AssemblyInfoInputs.cache
+D:\Dev\GitHub\CIV-OO-Challenge-1\UserInterface\obj\Debug\netcoreapp2.1\UserInterface.AssemblyInfo.cs
+D:\Dev\GitHub\CIV-OO-Challenge-1\UserInterface\obj\Debug\netcoreapp2.1\UserInterface.csproj.CopyComplete
+D:\Dev\GitHub\CIV-OO-Challenge-1\UserInterface\obj\Debug\netcoreapp2.1\UserInterface.dll
+D:\Dev\GitHub\CIV-OO-Challenge-1\UserInterface\obj\Debug\netcoreapp2.1\UserInterface.pdb

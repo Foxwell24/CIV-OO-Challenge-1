@@ -1,5 +1,6 @@
 ﻿using System;
 using NUnit.Framework;
+using ClassLibrary;
 // remember to reference and import your shape library
 
 namespace Triangle_Tests {
