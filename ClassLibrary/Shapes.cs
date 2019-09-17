@@ -66,7 +66,7 @@ namespace ClassLibrary
     {
         public Square(string color, int side1Length) : base(side1Length, color)
         {
-            
+
         }
         public int GetArea()
         {
@@ -75,6 +75,13 @@ namespace ClassLibrary
         public int GetPerimeter()
         {
             return side1Length * 4;
+        }
+    }
+    public class LessThanZero : FormatException
+    {
+        public LessThanZero()
+        {
+
         }
     }
 }

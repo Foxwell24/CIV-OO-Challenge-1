@@ -30,6 +30,14 @@ namespace UserInterface
             try
             {
                 s1 = int.Parse(Console.ReadLine());
+                if (s1 < 1)
+                {
+                    throw new LessThanZero();
+                }
+            }
+            catch (LessThanZero)
+            {
+                Console.WriteLine("not a postivite Integer");
             }
             catch (FormatException)
             {
@@ -37,6 +45,9 @@ namespace UserInterface
                 MakeSquare(color);
             }
             new Square(color, s1);
+            Console.Clear();
+            Console.WriteLine("sucsessfull");
+            Console.WriteLine();
         }
 
         public static void MakeRectangle(string color)
@@ -50,6 +61,14 @@ namespace UserInterface
                 try
                 {
                     s1 = int.Parse(Console.ReadLine());
+                    if(s1 < 1)
+                    {
+                        throw new LessThanZero();
+                    }
+                }
+                catch (LessThanZero)
+                {
+                    Console.WriteLine("not a postivite Integer");
                 }
                 catch (FormatException)
                 {
@@ -62,6 +81,14 @@ namespace UserInterface
                 try
                 {
                     s2 = int.Parse(Console.ReadLine());
+                    if (s2 < 1)
+                    {
+                        throw new LessThanZero();
+                    }
+                }
+                catch (LessThanZero)
+                {
+                    Console.WriteLine("not a postivite Integer");
                 }
                 catch (FormatException)
                 {
